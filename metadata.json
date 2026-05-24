@@ -1,0 +1,6 @@
+{
+  "name": "NovaMind",
+  "description": "Futuristic AI personal assistant for Sowjith Anumola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
